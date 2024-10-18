@@ -1,0 +1,25 @@
+body{
+  background : #F5F5F5;
+  color : #406C8A;
+}
+.highlight{
+ color : #3DD2CC 
+}
+i {
+  font-size : 0.5em;
+}
+hr{
+  background-color : #3DD2CC;
+  height: 5px;
+  border : 0;
+  width : 100%;
+}
+.makeFlex{
+  display : flex;
+  justify-content : center;
+  align-items : center;
+}
+
+.marClass{
+  margin : 10px 0px;
+}
