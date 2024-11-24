@@ -23,3 +23,7 @@ hr{
 .marClass{
   margin : 10px 0px;
 }
+
+.button{
+  cursor: pointer;
+}
